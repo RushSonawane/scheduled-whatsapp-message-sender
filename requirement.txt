@@ -1,0 +1,4 @@
+'''twilio client setup 
+user inputs 
+scheduling logic 
+send message '''
